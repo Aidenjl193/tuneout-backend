@@ -55,6 +55,5 @@ test:
 #
 production:
   <<: *default
-  database: music_app_backend_production
-  username: music_app_backend
-  password: <%= ENV['MUSIC_APP_BACKEND_DATABASE_PASSWORD'] %>
+  adapter: postgresql
+  database: postgres://zggelvyprnqcmj:19844f89adaa665f6c8f74e5d7952cf845b0a6a252565a26ad170fedb7e404fc@ec2-46-137-187-23.eu-west-1.compute.amazonaws.com:5432/dmm6difigegqb
