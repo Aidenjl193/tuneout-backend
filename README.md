@@ -2,7 +2,7 @@
 
 Tuneout is a website for sharing and streaming royalty free music.
 [website](https://tuneout.netlify.com/)
-[backend](https://github.com/Aidenjl193/tuneout-frontend)
+[frontend](https://github.com/Aidenjl193/tuneout-frontend)
 
 
 # Technologies Used
