@@ -1,24 +1,14 @@
-# README
+# Tuneout - Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Tuneout is a website for sharing and streaming royalty free music.
+[website](https://tuneout.netlify.com/)
+[backend](https://github.com/Aidenjl193/tuneout-frontend)
 
-Things you may want to cover:
 
-* Ruby version
+# Technologies Used
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Ruby on Rails
+- AWS S3
+- Devise
+- React
+- p5.js
